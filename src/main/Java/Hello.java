@@ -6,4 +6,12 @@ public class Hello {
   int v = 332;
 
   class Main {}
+
+  class Go()
+}
+
+
+class Mm {
+  public static void dd() 
+  
 }
